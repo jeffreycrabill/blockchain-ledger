@@ -10,9 +10,9 @@ The steps to complete the ledger were:
 ## Usage
 
 To use this program, download github repository clone and open the "pychain.py" file, run the file and type "streamlit run pychain.py" into the command line.  This will open up the host on your browser.  From there you can add info to new block to add to a new block chain.  Here it is in action:
-![streamlit](/images/streamlit.mp4)
+![streamlit](/images/giphy.gif)
 You can see it records the sender, receiver, and amount for each block in the ledger.  It also shows the difficult of each block, and can validate the chain.
-
+![Validation](/images/validation.png)
 
 ## Technologies
 This project was created with on with python v3.7.13.  It also uses streamlit for the user interface
