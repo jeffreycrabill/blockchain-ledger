@@ -1,11 +1,11 @@
 # blockchain-ledger
 
 The purpose of this project is to build a locally hosted block chain which is able to accept new blocks and validate them as well. <br>
-The steps to complete the ledger were: 
--Create a Record Data Class
--Modify the Existing Block Data Class to Store Record Data
--Add Relevant User Inputs to the Streamlit Interface
--Test the PyChain Ledger by Storing Records
+The steps to complete the ledger were: <br>
+-Create a Record Data Class <br>
+-Modify the Existing Block Data Class to Store Record Data <br>
+-Add Relevant User Inputs to the Streamlit Interface <br>
+-Test the PyChain Ledger by Storing Records <br>
 
 ## Usage
 
